@@ -95,7 +95,7 @@ https://vp-onboarding-doc.readthedocs.io/en/latest/level_2/solutions/rd_nexus.ht
     <element xsi:type="archimate:DataObject" name="DCAT" id="id-3ba92c91c5e74ee0a0a4cc6e67974267">
       <documentation>https://www.w3.org/TR/vocab-dcat-2/</documentation>
     </element>
-    <element xsi:type="archimate:DataObject" name="EJP-RD Metadata Model" id="id-8e5ac0428a5741638a45060a38e3b49d">
+    <element xsi:type="archimate:DataObject" name="RD-VP Metadata Schema" id="id-8e5ac0428a5741638a45060a38e3b49d">
       <documentation>https://ejp-rd-vp.github.io/resource-metadata-schema/</documentation>
     </element>
     <element xsi:type="archimate:DataObject" name="ORDO (Orphanet Rare Diseases Ontology) " id="id-1c09055f6d1748519022d5c389da17f3">
